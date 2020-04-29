@@ -1,0 +1,17 @@
+.POPOSSpace {
+  width: 100%;
+  text-align: center;
+  background: #009406;
+  border: solid;
+  padding-bottom: 20px;
+}
+
+.POPOSSpace > img {
+  width: 100%;
+  height: auto;
+}
+
+.hours {
+  font-style: italic;
+  color: #fff;
+}
